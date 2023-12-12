@@ -6,7 +6,7 @@ from docx2python import docx2python
 import docx
 import os
 import csv
-openai.api_key = "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"
+openai.api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 #Funcion con la que obtendremos la respuesta del modelo
